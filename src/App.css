@@ -1,10 +1,18 @@
 .App {
   text-align: center;
 }
-
+.fridge {
+  border: 1px solid black;
+  border-radius: 20%;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.navlink {
+  margin: 3rem;
+  padding: 3rem;
 }
 .App nav a.active {
   color: black;
