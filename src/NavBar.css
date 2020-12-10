@@ -1,0 +1,15 @@
+
+.navbar {
+    background-color: darkslateblue;
+    padding: 10px;
+}
+.navbar a {
+    font-size: 1.5rem;
+    margin: 1rem;
+    color: rgba(255, 255, 255, .7);
+}
+.navbar a.active {
+
+        color: white;
+    
+}
